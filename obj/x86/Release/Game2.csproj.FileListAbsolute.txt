@@ -1,0 +1,9 @@
+C:\Users\liam2\Desktop\New folder\bin\Release\Game.exe
+C:\Users\liam2\Desktop\New folder\bin\Release\Game.pdb
+C:\Users\liam2\Desktop\New folder\bin\Release\Microsoft.DirectX.Direct3D.dll
+C:\Users\liam2\Desktop\New folder\bin\Release\Microsoft.DirectX.dll
+C:\Users\liam2\Desktop\New folder\bin\Release\Microsoft.DirectX.Direct3D.xml
+C:\Users\liam2\Desktop\New folder\bin\Release\Microsoft.DirectX.xml
+C:\Users\liam2\Desktop\New folder\obj\x86\Release\Game2.csprojResolveAssemblyReference.cache
+C:\Users\liam2\Desktop\New folder\obj\x86\Release\Game.exe
+C:\Users\liam2\Desktop\New folder\obj\x86\Release\Game.pdb
